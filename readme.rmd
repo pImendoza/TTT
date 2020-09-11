@@ -1,0 +1,2 @@
+# Tic-Tac-Toe game
+This is the classic universal game that invloves 2 players that battle it out in strategy and fun.
